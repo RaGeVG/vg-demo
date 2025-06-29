@@ -1,2 +1,5 @@
-# vg-demo
-this is the first repository.
+#include<iostream>
+using namespcae std;
+int main(){
+cout << "HELLO WORLD";
+}
